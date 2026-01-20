@@ -16,7 +16,7 @@ Transaction ID,Customer details (age, country),Product category,Sales amount,Pay
 Removed null and invalid sales values,Handled age outliers to maintain realistic customer demographics,Standardized column names and data types,Created a Date Table for accurate time-based analysis
 
 -Key KPIs:
-1) Total Sales: $25M+,2)Total Transactions: 50K+,3)Average Order Value (AOV): $500+.
+1)Total Sales: $25M+,2)Total Transactions: 50K+,3)Average Order Value (AOV): $500+.
 
 -Dashboard Features :
 KPI cards for quick business overview,Sales by Country analysis,Sales by Product Category performance,Monthly Sales Trend with year-wise comparison,Interactive slicers for Year, Country and Product Category.
